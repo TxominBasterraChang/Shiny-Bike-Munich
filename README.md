@@ -1,2 +1,2 @@
 # Shiny-Bike-Munich
-This displays cycling activity in Munich
+This app displays cycling activity in Munich
