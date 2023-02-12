@@ -1,4 +1,6 @@
 # Shiny-Bike-Munich
+Visit the App: https://txomin-basterra.shinyapps.io/Bike/
+
 This app displays cycling activity in Munich
 
 
